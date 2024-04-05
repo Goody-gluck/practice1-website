@@ -1,0 +1,178 @@
+section.first {
+  background-color: white;
+  margin-right: 30px;
+  border-radius: 10px;
+  margin-bottom: 100px;
+  position: relative;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+div.Developer {
+  padding: 35px 40px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.774);
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: 1px solid rgba(194, 194, 194, 0.637);
+}
+
+button.apply {
+  padding: 10px 25px;
+  background-color: rgb(51, 102, 153);
+  border: 2px solid rgb(51, 102, 204);
+  border-radius: 50px;
+  color: white;
+  font-weight: 700;
+  /* position: fixed; */
+}
+
+p.role {
+  margin-bottom: 20px;
+}
+
+div.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: rgb(155, 155, 155);
+  font-size: 15px;
+}
+
+div.lists {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 8px;
+  margin-bottom: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: rgb(155, 155, 155);
+  font-size: 15px;
+}
+
+div.icons {
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+div.icon-one {
+  margin-right: 70px;
+  margin-left: 25px;
+}
+
+div.lists img {
+  margin-right: 8px;
+}
+div.lists img {
+  margin-right: 6px;
+}
+
+div.paragraph p {
+  margin-left: 28px;
+  margin-right: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: rgb(100, 100, 100);
+  font-size: 15px;
+  margin-bottom: 20px;
+  /* width: 95%; */
+}
+
+h3 {
+  margin-top: 50px;
+  color: rgb(99, 99, 99);
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+p.position {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: rgb(100, 100, 100);
+  font-size: 14px;
+  margin-bottom: 25px;
+  line-height: 1.5;
+  width: 95%;
+}
+
+div.role {
+  margin-left: 28px;
+}
+
+p.role {
+  font-weight: 500;
+  color: rgb(100, 100, 100);
+  font-size: 16px;
+}
+
+h4.key {
+  color: rgb(99, 99, 99);
+  font-size: 18px;
+  margin-left: 28px;
+  margin-bottom: 15px;
+}
+
+div.site-list {
+  margin-top: 50px;
+}
+
+div.site-list ul li {
+  margin-left: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: rgb(100, 100, 100);
+  font-size: 16px;
+  line-height: 1.5;
+  margin-right: 20px;
+}
+
+p.intelligent, 
+p.offer,
+p.commit,
+p.team {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: rgb(100, 100, 100);
+  font-size: 16px;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
+
+div.solutions {
+  margin-left: 28px;
+  margin-top: 45px;
+  margin-right: 20px;
+}
+
+div.about {
+  color: rgb(99, 99, 99);
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+h4.about {
+  margin-bottom: 5px;
+}
+
+p.link {
+  margin-bottom: 35px;
+}
+
+p.link a {
+  color: blue;
+}
+
+p.mission {
+  margin-right: 15px;
+}
